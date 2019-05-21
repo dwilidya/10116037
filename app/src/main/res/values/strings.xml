@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">10116037</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_splash_bg">splash_bg</string>
+</resources>
